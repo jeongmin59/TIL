@@ -1,4 +1,4 @@
-## MySQL 설치 시 마주친 에러
+# MySQL 설치 시 마주친 에러
 
 > mac 사용 중 (homebrew)
 
